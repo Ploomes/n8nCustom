@@ -86,3 +86,4 @@ n8n is [fair-code](http://faircode.io) distributed under the
 
 Additional information about the license model can be found in the
 [docs](https://docs.n8n.io/reference/license/).
+fork
